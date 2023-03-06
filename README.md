@@ -9,7 +9,7 @@
     </br>
     <p>
       <img src="https://img.shields.io/badge/Topics-1-blue.svg?style=for-the-badge" alt="license" />
-      <img src="https://img.shields.io/badge/Projects-5-green.svg?style=for-the-badge" alt="license" />
+      <img src="https://img.shields.io/badge/Projects-5-darkgreen.svg?style=for-the-badge&color=darkgreen" alt="license" />
       <img src="https://img.shields.io/github/stars/Jackson-Wozniak/Project-Ideas?style=for-the-badge&color=blueviolet" alt="license" />
       <img src="https://img.shields.io/github/contributors/Jackson-Wozniak/Project-Ideas?style=for-the-badge" alt="license" />
     </p> 
