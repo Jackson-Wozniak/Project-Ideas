@@ -8,8 +8,8 @@
   <a href="https://github.com/Jackson-Wozniak/Stock-Market-Simulation/edit/main/Backend"><strong>Explore The Code»</strong></a>
     </br>
     <p>
-      <img src="https://img.shields.io/badge/Topics-1-blue.svg?style=for-the-badge" alt="license" />
-      <img src="https://img.shields.io/badge/Projects-5-darkgreen.svg?style=for-the-badge&color=darkgreen" alt="license" />
+      <img src="https://img.shields.io/badge/Topics-2-blue.svg?style=for-the-badge" alt="license" />
+      <img src="https://img.shields.io/badge/Projects-7-darkgreen.svg?style=for-the-badge&color=darkgreen" alt="license" />
       <img src="https://img.shields.io/github/stars/Jackson-Wozniak/Project-Ideas?style=for-the-badge&color=blueviolet" alt="license" />
       <img src="https://img.shields.io/github/contributors/Jackson-Wozniak/Project-Ideas?style=for-the-badge" alt="license" />
     </p> 
@@ -96,3 +96,29 @@ EMTPY TABLE OUTLINE
 
 <br/> 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Aviation 
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+</thead>
+<tbody>
+
+  <tr>
+    <td>Real Time Flight Tracker</td>
+    <td>Using live flight data, allow users to track specific flights, view upcoming flights, and see the locations of flights in the air</td>
+    <td><a href=""></a></td>
+  </tr>
+  
+  <tr>
+    <td>Random Flight Generator</td>
+    <td>Using real airport data, generate random flights to airports across the world. Add details such as flight planning data, duration, and comparative real world flights</td>
+    <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
