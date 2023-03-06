@@ -85,6 +85,12 @@ EMTPY TABLE OUTLINE
     <td><a href=""></a></td>
   </tr>
   
+  <tr>
+    <td>Expense Tracker</td>
+    <td>Using databases to store user information, allow users to track their expenses over time. Include data analysis to visualize what they spend money on, where they could save money, and how much the spend vs. how much they make</td>
+    <td><a href=""></a></td>
+  </tr>
+  
 </tbody>
 </table>
 
