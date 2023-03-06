@@ -19,3 +19,74 @@
     ·
     <a href="https://github.com/Jackson-Wozniak/Project-Ideas/blob/main/Contributing.md">Contributing</a>
 </div>
+
+<!-- 
+EMTPY TABLE OUTLINE
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href=""></a></td>
+  </tr>
+</tbody>
+</table>
+-->
+
+## :books: Table of Contents
+
+<ol>
+    <li><a href="#Finance">Finance</a></li>
+</ol>    
+
+<br/> 
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Finance <a name="Finance"></a>
+
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+</thead>
+<tbody>
+
+  <tr>
+    <td>Stock Market Simulator</td>
+    <td>Create your own custom stock market, using real life stocks. Make the prices totally random, or follow a model such as monte carlo simulations</td>
+    <td><a href="https://github.com/Jackson-Wozniak/Stock-Market-Simulation">Link</a></td>
+  </tr>
+  
+  <tr>
+    <td>Investment Calculator</td>
+    <td>Show the growth of an investment over time; based on years passed, % return on investment, and additional contributions</td>
+    <td><a href=""></a></td>
+  </tr>
+  
+  <tr>
+    <td>Banking Application</td>
+    <td>Create your own mini banking application. Include security and transfers to add complexity. For added detail, allow the ability to link it to other applications you build to keep a central bank profile for any personal projects that also use fake money</td>
+    <td><a href=""></a></td>
+  </tr>
+  
+  <tr>
+    <td>Lottery Ticket Drawing</td>
+    <td>Create lottery tickets and scratch tickets that generate random prizes. Add multiple unique types of tickets that draw prizes in different ways</td>
+    <td><a href=""></a></td>
+  </tr>
+  
+</tbody>
+</table>
+
+<br/> 
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------- -->
